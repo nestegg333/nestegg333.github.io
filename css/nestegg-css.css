@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Arciform';
+    src: url('../fonts/Arciform.otf');
+}
+
+* {
+	font-family: 'Arciform';
+}
+
+.header-section h1 {
+	font-size: 8em;
+}
+
+.header-section {
+	color: white;
+	background-color: white;
+    background: url(../img/header-bg.png) repeat center center fixed; 
+	text-align: center;
+	padding: 100px;
+}
+
+.container {
+	margin-left: 10%;
+	margin-right: 10%;
+}
